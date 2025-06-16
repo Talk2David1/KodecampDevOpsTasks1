@@ -7,10 +7,6 @@ Important Aspects of DevOps
 2. Collaboration: Encouraging seamless communication between developers, system administrators, and other stakeholders.
 3. Continuous Integration & Delivery (CI/CD): Ensuring code is frequently integrated, tested, and ready for deployment.
 4. Monitoring & Feedback: Tracking system performance and quickly addressing issues.
-
-DevOps Lifecycle
-
-
 DevOps Lifecycle
 1. Plan — You should define requirements, create user stories and prioritize tasks.
 2. Develop — This involves developers writing and building software, version control and peer reviews.
